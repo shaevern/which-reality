@@ -1,10 +1,7 @@
 <html>
 <head>
   <title>Oh geez... What reality am I in?</title>
-</head>
-
-<!-- TODO: Remember to upgrade Azure subscription before trial ends. Company credit card is 1234-5678-1234-5678. -->
-  
+</head>  
 <body>
 <h1> Server Information</h1>
 <?php 
